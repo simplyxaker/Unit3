@@ -1,0 +1,7 @@
+D:\Examples\First Programm\Uni1\bin\Debug\Uni1.exe.config
+D:\Examples\First Programm\Uni1\bin\Debug\Uni1.exe
+D:\Examples\First Programm\Uni1\bin\Debug\Uni1.pdb
+D:\Examples\First Programm\Uni1\obj\Debug\Uni1.csproj.AssemblyReference.cache
+D:\Examples\First Programm\Uni1\obj\Debug\Uni1.csproj.CoreCompileInputs.cache
+D:\Examples\First Programm\Uni1\obj\Debug\Uni1.exe
+D:\Examples\First Programm\Uni1\obj\Debug\Uni1.pdb
